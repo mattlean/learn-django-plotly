@@ -9,4 +9,6 @@
 6. Start the web server: `python manage.py runserver`
 7. Create a new super user: `python manage.py createsuperuser`
 
-To deactivate the virtual environment: `deactivate`
+## Other Commands
+- To deactivate the virtual environment: `deactivate`
+- Run Python shell with `DJANGO_SETTINGS_MODULE` environment variable set: `python manage.py shell`
