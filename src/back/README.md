@@ -12,3 +12,4 @@
 ## Other Commands
 - To deactivate the virtual environment: `deactivate`
 - Run Python shell with `DJANGO_SETTINGS_MODULE` environment variable set: `python manage.py shell`
+- Run tests with `python manage.py test APP_NAME`
